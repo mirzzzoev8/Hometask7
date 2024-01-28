@@ -20,9 +20,9 @@ public class PostServices
     {
         foreach (var item in post)
         {
-            if(item.id == Post.id)
+            if(item.Id == Post.Id)
             {
-                item.id = Post.id;
+                item.Id = Post.Id;
                 item.Title = Post.Title;
                 item.Description = Post.Description;
                 item.VoteAmount = Post.VoteAmount;
@@ -36,6 +36,7 @@ public class PostServices
     {
         foreach (var item in post)
         {
+            if(item.Id == id)
             post.Remove(item);
             
         }

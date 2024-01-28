@@ -20,9 +20,9 @@ public class CourseServices
     {
         foreach (var item in course)
         {
-            if(item.id == Course.id)
+            if(item.Id == Course.Id)
             {
-                item.id = Course.id;
+                item.Id = Course.Id;
                 item.Title = Course.Title;
                 item.Description = Course.Description;
                 item.Fee = Course.Fee;
@@ -34,8 +34,10 @@ public class CourseServices
     }
     public void DeleteCourse(int id)
     {
+        
         foreach (var item in course)
         {
+            if(item.Id == id)
             course.Remove(item);
             
         }

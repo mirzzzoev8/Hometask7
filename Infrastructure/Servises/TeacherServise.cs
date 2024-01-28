@@ -20,9 +20,9 @@ public class TeacherServices
     {
         foreach (var item in teacher)
         {
-            if(item.id == Teacher.id)
+            if(item.Id == Teacher.Id)
             {
-                item.id = Teacher.id;
+                item.Id = Teacher.Id;
                 item.FirstName = Teacher.FirstName;
                 item.LastName = Teacher.LastName;
                 item.ExperienceAmount = Teacher.ExperienceAmount;
@@ -36,6 +36,7 @@ public class TeacherServices
     {
         foreach (var item in teacher)
         {
+            if(item.Id == id)
             teacher.Remove(item);
             
         }

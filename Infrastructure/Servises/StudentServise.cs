@@ -20,9 +20,9 @@ public class StudentServices
     {
         foreach (var item in student)
         {
-            if(item.id == Student.id)
+            if(item.Id == Student.Id)
             {
-                item.id = Student.id;
+                item.Id = Student.Id;
                 item.FirstName = Student.FirstName;
                 item.LastName = Student.LastName;
                 item.BirthDate = Student.BirthDate;
@@ -36,6 +36,7 @@ public class StudentServices
     {
         foreach (var item in student)
         {
+            if(item.Id == id)
             student.Remove(item);
             
         }

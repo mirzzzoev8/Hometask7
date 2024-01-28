@@ -2,7 +2,7 @@
 
 public class Course
 {
-   public int id;
+   public int Id;
    public string Title;
    public string Description;
    public decimal Fee;

@@ -2,7 +2,7 @@
 
 public class Student
 {
-   public int id;
+   public int Id;
    public string FirstName;
    public string LastName;
    public DateTime BirthDate;

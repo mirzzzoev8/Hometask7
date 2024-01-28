@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\Domain\\Domain.csproj"
+              "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\Domain\\Domain.csproj": {
+    "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -117,14 +117,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -139,8 +139,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\C# Course\\HomeTask6\\Domain\\Domain.csproj"
+              "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\C# Course2\\Week 3\\HomeTask\\Domain\\Domain.csproj"
               }
             }
           }
